@@ -2,7 +2,7 @@
 
 commands below:
 
-#npm start 
+# npm start # 
 for start the app
 
 # npm install json-server #
