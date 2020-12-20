@@ -1,0 +1,7 @@
+{
+    "typescript.format.insertSpaceAfterTypeAssertion": true,
+    "javascript.format.placeOpenBraceOnNewLineForFunctions": true,
+    "prettier.semi": true,
+    "prettier.embeddedLanguageFormatting": true,
+    "typescript.format.enable": true
+}

@@ -1,0 +1,14 @@
+{
+  "singers": [],
+  "actors": [],
+  "profile": {
+    "img": "",
+    "name": "Your Name",
+    "age": "Your Age",
+    "education": "Your Education",
+    "location": "Your Country / Your City",
+    "summary": "Your Summary"
+  },
+  "songs": [],
+  "movies": []
+}
