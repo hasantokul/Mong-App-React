@@ -9,7 +9,7 @@ first
 for start the fake api for access the datas. it will work at port 3000 as default
 
 second
-# npm start # 
+# npm install # 
 # npm start # 
 for start the app it should work at port 3001 as default
 
